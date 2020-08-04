@@ -17,7 +17,8 @@ to get your local environment set up and ready.
 >   follow the instructions in STEP 0_
 
 If you went through this process during pre-work and believe your local
-environment is already setup, you can verify by running the following script in your terminal:
+environment is already setup, you can verify by running the following script in
+your terminal:
 
 ```sh
 curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/manual-setup-check.sh | bash 2> /dev/null
